@@ -29,8 +29,8 @@ Or run locally to analyze sample text using pre-trained models.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nlp-ai-toolkit.git
-cd nlp-ai-toolkit
+git clone git@github.com:pratappadhy2005/ai-nlp.git
+cd <project>
 
 # Create a virtual environment
 python -m venv venv
